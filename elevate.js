@@ -18,4 +18,4 @@ for (let i = 0; i < coordinate.length; i++) {
 
   });
 }
-//run using 'node trial.js'
+//run using 'node elevate.js'
